@@ -1,0 +1,58 @@
+# Power BI Files
+*.pbix.tmp
+*.pbix~
+*.pbit
+*.pbids
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data Files (if you want to exclude large files)
+# Uncomment the following lines if your CSV files are too large for GitHub
+# *.csv
+# !BrainLytics_Final.csv  # Keep only the final file
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+~$*
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Power BI cache
+.pbi/
