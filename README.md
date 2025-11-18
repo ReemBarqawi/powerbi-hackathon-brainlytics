@@ -41,9 +41,9 @@ BrainLytics-PowerBI-Dashboard/
 │   │   └── 03_customer_insights.png
 │   │
 │   └── wallpapers/
-│       ├── dashboard_bg_main.png
-│       ├── dashboard_bg_dark.png
-│       └── figma_template.fig
+│       ├── page 1.svg
+│       ├── page 2.svg
+│       └── page 3.svg
 │
 ├── data/
 │   ├── BrainLyticsData1.csv
